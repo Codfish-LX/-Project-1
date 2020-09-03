@@ -33,4 +33,8 @@ You need to install Anaconda and Python for this Project.
 Project Motivation
 ------------
  
- * For this project, I want to use open data source for analyeze Boston Airbnb dataset complied on 10 June 2020 from Inside Airbnb. I will provide you with data visualization and machine learning solutions for three main questions that you would care about: Location: What regions do you have more choice or you are more likely to stay in Boston Airbnb? Room Type: What types of rooms are most popular for stay? Price: What are the important features to influence price? Could you predict the price of Boston Airbnb?
+ * For this project, I want to use open data source to analyze Boston Airbnb dataset complied on 10 June 2020 by Inside Airbnb. I will provide you with data visualization and machine learning solutions for three main questions that you would care about: Location: What regions do you have more choice or you are more likely to stay in Boston Airbnb? Room Type: What types of rooms are most popular for stay? Price: What are the important features to influence price? Could you predict the price of Boston Airbnb?
+
+File Description
+------------
+You can download my notebook to review work related to the above questions. Steps of the analysis are described within the notebook.
