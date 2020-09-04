@@ -43,7 +43,7 @@ File Description
 
 Results
 ------------
-* Results can be found at the conclusion part in my post [Using Data Science to Make Your Next Trip on Boston Airbnb](http://github.com)
+* Results can be found at the conclusion part in my post [Using Data Science to Make Your Next Trip on Boston Airbnb](https://medium.com/@lx2254/using-data-science-to-make-your-next-trip-on-boston-airbnb-952030cad433?source=friends_link&sk=b1b5375d4467a8a54a40def3192c87db)
 
 Licensing, Acknowledgements
 ------------
