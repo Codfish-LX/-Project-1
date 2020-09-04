@@ -30,6 +30,9 @@ Installation
 You need to install Anaconda and Python for this Project.
 * https://docs.anaconda.com/anaconda/install/windows/
 
+You also need to install Python Packages Numpy, Pandas, Matplotlib, Math, Seaborn, Scipy, Sklearn, Shap.
+* https://www.dev2qa.com/how-to-install-python-package-numpy-pandas-scipy-matplotlib-on-windows-mac-and-linux/
+
 Project Motivation
 ------------
  
@@ -37,4 +40,4 @@ Project Motivation
 
 File Description
 ------------
-You can download my notebook to review work related to the above questions. Steps of the analysis are described within the notebook.
+You can download my notebook() to review work related to the above questions. Steps of the analysis are described within the notebook.
