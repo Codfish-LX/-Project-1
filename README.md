@@ -26,10 +26,10 @@ CONTENTS OF THIS FILE
 Installation
 ------------
 
-You need to install Anaconda and Python for this Project.
+You need to install Anaconda and Python for this Project
 * https://docs.anaconda.com/anaconda/install/windows/
 
-You also need to install Python Packages Numpy, Pandas, Matplotlib, Math, Seaborn, Scipy, Sklearn, Shap.
+You also need to install Python Packages Numpy, Pandas, Matplotlib, Math, Seaborn, Scipy, Sklearn, Shap
 * https://www.dev2qa.com/how-to-install-python-package-numpy-pandas-scipy-matplotlib-on-windows-mac-and-linux/
 
 Project Motivation
@@ -47,4 +47,4 @@ Results
 
 Licensing, Acknowledgements
 ------------
-* Must give credits to [Inside Airbnb](http://insideairbnb.com/get-the-data.html) for they collect such a useful dataset for enthusiasts. 
+* Must give credits to [Inside Airbnb](http://insideairbnb.com/get-the-data.html) for they collect such a useful dataset for enthusiasts
