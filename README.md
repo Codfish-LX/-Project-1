@@ -40,4 +40,4 @@ Project Motivation
 
 File Description
 ------------
-You can download my notebook() to review work related to the above questions. Steps of the analysis are described within the notebook.
+You can load the data file(listings.csv). You can also download my notebook(2020 Boston Airbnb.ipynb) to review work related to the above questions. Steps of the analysis are described within the notebook.
