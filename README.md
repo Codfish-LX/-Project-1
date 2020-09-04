@@ -1,11 +1,10 @@
 # Project-1
 Introduction
 ------------
-* I have written a blog post on Medium for this project. You are welcome to check out here
-* [Using Data Science to Make Your Next Trip on Boston Airbnb](http://github.com)
+* I have written a blog post on Medium for this project. You are welcome to check out [here](https://medium.com/@lx2254/using-data-science-to-make-your-next-trip-on-boston-airbnb-952030cad433?source=friends_link&sk=b1b5375d4467a8a54a40def3192c87db)
 ![Alt Text](https://cdn-images-1.medium.com/max/2560/1*BAE3H2ghMdKIQ-jDBAb-Yw.jpeg)
 
-This data is provided by Inside Airbnb, you can download the data from [Here](http://insideairbnb.com/get-the-data.html)
+This data is provided by Inside Airbnb, you can download the data from [here](http://insideairbnb.com/get-the-data.html)
 
 I followed steps in CRISP-DM process:
 * Business Understanding
@@ -17,7 +16,7 @@ I followed steps in CRISP-DM process:
 CONTENTS OF THIS FILE
 ---------------------
 
- * [Installation](#Installation-in-markdown)
+ * Installation
  * Project Motivation
  * File Descriptions
  * Model Recommedation
