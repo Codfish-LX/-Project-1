@@ -17,7 +17,7 @@ I followed steps in CRISP-DM process:
 CONTENTS OF THIS FILE
 ---------------------
 
- * Installation
+ * [Installation](#Installation-in-markdown)
  * Project Motivation
  * File Descriptions
  * Model Recommedation
@@ -40,4 +40,12 @@ Project Motivation
 
 File Description
 ------------
-You can load the data file(listings.csv). You can also download my notebook(2020 Boston Airbnb.ipynb) to review work related to the above questions. Steps of the analysis are described within the notebook.
+* You can load the data file(listings.csv). You can also download my notebook(2020 Boston Airbnb.ipynb) to review work related to the above questions. Steps of the analysis are described within the notebook.
+
+Results
+------------
+* Results can be found at the conclusion part in my post [Using Data Science to Make Your Next Trip on Boston Airbnb](http://github.com)
+
+Licensing, Acknowledgements
+------------
+* Must give credits to [Inside Airbnb](http://insideairbnb.com/get-the-data.html) for they collect such a useful dataset for enthusiasts. 
