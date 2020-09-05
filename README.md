@@ -1,4 +1,4 @@
-# Project-1
+# 2020 Boston Airbnb
 Introduction
 ------------
 * I have written a blog post on Medium for this project. You are welcome to check out [here](https://medium.com/@lx2254/using-data-science-to-make-your-next-trip-on-boston-airbnb-952030cad433?source=friends_link&sk=b1b5375d4467a8a54a40def3192c87db)
